@@ -1,0 +1,11 @@
+package desafioDioPoo.dominio;
+
+import java.util.Set;
+
+public class Bootcamp {
+
+	private String nome;
+	private Set<Conteudo> inscritos;
+	private Set<Conteudo> concluidos;
+
+}

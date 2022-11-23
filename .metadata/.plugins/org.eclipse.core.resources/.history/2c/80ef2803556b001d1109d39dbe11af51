@@ -1,0 +1,19 @@
+package desafioDioPoo.dominio;
+
+import java.util.LinkedHashSet;
+import java.util.Set;
+
+public class Dev {
+
+	private String nome;
+	private Set<Conteudo> inscritos = new LinkedHashSet<>();
+	private Set<Conteudo> concluidos = new LinkedHashSet<>();
+	
+	public void insccreverBoot(Bootcamp bootcamp) {}
+	
+	public void progredir() {}
+	
+	public void calcularTotalXp() {}
+	
+
+}
