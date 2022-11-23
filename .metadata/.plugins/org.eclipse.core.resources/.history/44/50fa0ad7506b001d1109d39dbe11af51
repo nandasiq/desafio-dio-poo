@@ -2,7 +2,6 @@ package desafioDioPoo;
 
 import java.time.LocalDate;
 
-import desafioDioPoo.dominio.Conteudo;
 import desafioDioPoo.dominio.Curso;
 import desafioDioPoo.dominio.Mentoria;
 
